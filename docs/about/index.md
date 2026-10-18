@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-# About Me
+# Jigme Namgyel Thinley
 
 <!-- ============================================================
      INSTRUCTIONS: Replace placeholder text below with your info.
@@ -29,11 +29,9 @@ title: About Me
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _"Cant rush greatness"_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
-
+Hello my name is Jigme Namgyel Thinley i am currently a 8th grade student 
 </div>
 
 </div>
@@ -44,8 +42,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2025 – Present | B.Sc. in Your Major | Your University |
+| 2025 – 2030 | Higher Secondary | Your School/College |
 
 ## 🛠️ Skills
 
