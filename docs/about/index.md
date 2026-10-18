@@ -69,10 +69,10 @@ Hello my name is Jigme Namgyel Thinley i am currently a 8th grade student
 
 ## 🌟 Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Research Area 1** — Artificial Intelligence
+- 🎨 **Creative Hobby** — Photography
+- 🏃 **Sports / Activity** — Basketball/Football
+- 📚 **Reading / Learning** — History
 
 <hr class="section-divider">
 
@@ -80,9 +80,9 @@ Hello my name is Jigme Namgyel Thinley i am currently a 8th grade student
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
+| :fontawesome-brands-github: GitHub | [Ascend144](https://github.com/ascend144) |
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
+| :material-email: Email | [Jigme.nthinley2025@academy.bt](mailto:your.email@example.com) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
 
 
