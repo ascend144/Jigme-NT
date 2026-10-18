@@ -20,7 +20,7 @@ title: About Me
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/file/d/12AHCy9xRZfD3rj345NLNSm7pb8IejfJM/view?usp=sharing" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
@@ -84,3 +84,6 @@ Hello my name is Jigme Namgyel Thinley i am currently a 8th grade student
 | :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
 | :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+
+
+[def]: ttps://drive.google.com/file/d/12AHCy9xRZfD3rj345NLNSm7pb8IejfJM/view?usp=sharin
